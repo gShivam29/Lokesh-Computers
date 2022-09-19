@@ -1,5 +1,5 @@
 
-public class BubbleSort {
+public class NewSort {
 
 	void bubbleSort(int arr[])
 	{
@@ -33,5 +33,4 @@ public class BubbleSort {
 		ob.printArray(arr);
 	}
 }
-
 
